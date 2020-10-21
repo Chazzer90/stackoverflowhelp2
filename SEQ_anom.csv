@@ -1,0 +1,41 @@
+ï..MergeRecno,MergeEncounterRecno,SequenceNo,DiagnosticSchemeCode,DiagnosisCode,DiagnosisSiteCode,NationalDiagnosisCode,NationalDiagnosis
+402,545353,1,704,7,22,7,Muscle/tendon injury
+758,261891,1,704,20,NULL,20,Cardiac conditions
+894,941852,1,704,25,22,25,Respiratory conditions
+613,494384,1,704,20,NULL,20,Cardiac conditions
+855,519294,1,704,38,NULL,38,Diagnosis not classifiable
+745,693144,1,704,38,NULL,38,Diagnosis not classifiable
+289,358864,1,704,20,NULL,20,Cardiac conditions
+975,348927,1,704,25,NULL,25,Respiratory conditions
+483,686815,1,704,20,22,20,Cardiac conditions
+389,766182,1,704,25,22,25,Respiratory conditions
+149,963213,1,704,25,22,25,Respiratory conditions
+633,708908,1,704,25,22,25,Respiratory conditions
+879,468033,1,704,26,NULL,26,Gastrointestinal conditions
+265,121953,1,704,20,NULL,20,Cardiac conditions
+523,413129,1,704,34,NULL,34,ENT conditions
+550,159552,1,704,20,NULL,20,Cardiac conditions
+430,381303,1,704,20,NULL,20,Cardiac conditions
+650,239868,1,704,14,NULL,14,Poisoning (including overdose)
+807,721535,1,704,38,NULL,38,Diagnosis not classifiable
+642,376987,1,704,7,22,7,Muscle/tendon injury
+402,545353,2,704,25,22,25,Respiratory conditions
+758,261891,2,704,25,22,25,Respiratory conditions
+894,941852,2,704,26,NULL,26,Gastrointestinal conditions
+613,494384,2,704,20,NULL,20,Cardiac conditions
+855,519294,2,704,34,NULL,34,ENT conditions
+745,693144,2,704,20,NULL,20,Cardiac conditions
+289,358864,2,704,20,NULL,20,Cardiac conditions
+975,348927,2,704,14,NULL,14,Poisoning (including overdose)
+483,686815,2,704,38,NULL,38,Diagnosis not classifiable
+389,766182,2,704,7,22,7,Muscle/tendon injury
+149,963213,2,704,7,22,7,Muscle/tendon injury
+633,708908,2,704,20,NULL,20,Cardiac conditions
+879,468033,2,704,25,22,25,Respiratory conditions
+265,121953,2,704,20,NULL,20,Cardiac conditions
+523,413129,2,704,38,NULL,38,Diagnosis not classifiable
+550,159552,2,704,38,NULL,38,Diagnosis not classifiable
+430,381303,2,704,20,NULL,20,Cardiac conditions
+650,239868,2,704,25,NULL,25,Respiratory conditions
+807,721535,2,704,20,22,20,Cardiac conditions
+642,376987,2,704,25,22,25,Respiratory conditions
